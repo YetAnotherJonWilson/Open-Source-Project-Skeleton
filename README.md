@@ -17,4 +17,11 @@ This is not a comprehensive or a finished product, and isn't meant to be. I've i
 
 ### Why
 
-##How to use these files
+--Because why aren't open source web apps a thing?
+--Because "this should exist" exists, but not "this is how to make that exist"
+--Because Bootcamp solo and group projects don't need to disappear
+--Because it's hard enough to get involved with OS
+--Ideas themselves should be open source, so even if something exists, if you want to do it different, or just do it also, you should be able
+--Because Ideas should have a place to go to _not_ die
+
+## How to use these files
