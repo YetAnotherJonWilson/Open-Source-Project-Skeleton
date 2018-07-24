@@ -17,11 +17,14 @@ This is not a comprehensive or a finished product, and isn't meant to be. I've i
 
 ### Why
 
---Because why aren't open source web apps a thing?
---Because "this should exist" exists, but not "this is how to make that exist"
---Because Bootcamp solo and group projects don't need to disappear
---Because it's hard enough to get involved with OS
---Ideas themselves should be open source, so even if something exists, if you want to do it different, or just do it also, you should be able
---Because Ideas should have a place to go to _not_ die
+- Because why aren't open source web apps a thing?
+- Because "Somebody Make This" exists, but not "this is where we make that"
+- Because Bootcamp solo and group projects don't need to disappear
+- Because it's hard enough to get involved with open source
+- Because Ideas should have a place to go to _not_ die
 
 ## How to use these files
+
+1.  Import these files into your project folder.
+2.  Replace this README with your own (see below).
+3.  Replace the content of every other file with your own. Use the included tips, links, suggestions, ideas or outlines where available.
