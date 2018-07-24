@@ -18,7 +18,7 @@ This is not a comprehensive or a finished product, and isn't meant to be. I've i
 ### Why
 
 - Because why aren't open source web apps a thing?
-- Because "Somebody Make This" exists, but not "this is where we make that"
+- Because "Somebody Make This" exists, but not "This is Where We Make That"
 - Because Bootcamp solo and group projects don't need to disappear
 - Because it's hard enough to get involved with open source
 - Because Ideas should have a place to go to _not_ die
