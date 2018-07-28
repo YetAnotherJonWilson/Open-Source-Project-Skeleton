@@ -25,6 +25,11 @@ This is not a comprehensive or a finished product, and isn't meant to be. I've i
 
 ## How to use these files
 
-1.  Import these files into your project folder.
+1.  Import these files into your project folder. (NOTE: If you're importing into an existing repo, don't replace your README with this one. If you accidentally do, and your repo is on Github, find the text of your old version in your past commits, and copy and paste it back into your repo. I think there's another way to do this with Git, you could Google "undo git commit", but that would probably turn into a nightmare.)
 2.  Replace this README with your own (see below).
-3.  Replace the content of every other file with your own. Use the included tips, links, suggestions, ideas or outlines where available.
+3.  Replace the content of the other files with your own. Use the included tips, links, suggestions, ideas or outlines where available.
+
+## Replace This README with your own
+
+If you need tips for what to include in your README, Github provides a good resource here:
+https://guides.github.com/features/wikis/
